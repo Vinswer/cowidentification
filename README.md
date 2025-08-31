@@ -44,6 +44,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset Structure
+```bash
 dataset/
 ├── train/
 │   ├── specs.json
@@ -54,6 +55,7 @@ dataset/
 │       └── cow_002/
 ├── val/
 └── test/
+```
 
 ## Data Format Requirements
 - **Images**: PNG format, minimum 224x224 resolution
