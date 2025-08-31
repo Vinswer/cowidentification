@@ -15,6 +15,7 @@ This project implements a novel approach for cattle individual identification th
 - Comprehensive evaluation framework
 
 <img width="915" height="358" alt="image" src="https://github.com/user-attachments/assets/c78ba3cd-878c-4fc7-822a-468c6456805d" />
+
 <img width="1054" height="258" alt="image" src="https://github.com/user-attachments/assets/574240cc-b216-4ef9-be98-934bad64c7c6" />
 *Figure: System architecture pipeline showing the complete workflow from image input to final identification*
 
